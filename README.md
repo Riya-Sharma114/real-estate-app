@@ -41,23 +41,8 @@ CSS3 / Responsive Design
 JavaScript (ES6+)
 
 📁 Project Structure
-real-estate-app/
-├── public/
-│   └── index.html
-├── src/
-│   ├── components/
-│   │   ├── Header.js
-│   │   ├── Footer.js
-│   │   └── PropertyCard.js
-│   ├── pages/
-│   │   ├── Home.js
-│   │   ├── About.js
-│   │   └── Contact.js
-│   ├── App.js
-│   ├── index.js
-│   └── App.css
-├── package.json
-└── README.md
+<img width="407" height="572" alt="image" src="https://github.com/user-attachments/assets/b6f1fcbc-e5a1-4ac7-8631-c2397cd502ac" />
+
 
 📸 Working Model Screenshots
 🏠 Home
