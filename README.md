@@ -40,18 +40,3 @@ CSS3 / Responsive Design
 
 JavaScript (ES6+)
 
-📁 Project Structure
-<img width="407" height="572" alt="image" src="https://github.com/user-attachments/assets/b6f1fcbc-e5a1-4ac7-8631-c2397cd502ac" />
-
-
-📸 Working Model Screenshots
-🏠 Home
-<img width="1918" height="902" alt="image" src="https://github.com/user-attachments/assets/68bc5020-2506-4012-8ee1-2433446a6e39" />
-
-
-🏡 Property Listings
-<img width="1918" height="868" alt="image" src="https://github.com/user-attachments/assets/10530888-118b-41b5-8ee3-4e1ac7259e0a" />
-
-
-📬 Contact
-<img width="1917" height="958" alt="image" src="https://github.com/user-attachments/assets/24af3503-cb4a-4bcf-8a20-c9267dfc5be4" />
