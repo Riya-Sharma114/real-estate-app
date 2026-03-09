@@ -103,7 +103,7 @@ export default function About() {
 
             <div className="col-md-4">
               <div className="team-card">
-                <img src="https://randomuser.me/api/portraits/men/32.jpg" />
+                <img src="https://randomuser.me/api/portraits/men/32.jpg" alt=""/>
                 <h4>Rahul Sharma</h4>
                 <p>Senior Property Consultant</p>
               </div>
@@ -111,7 +111,7 @@ export default function About() {
 
             <div className="col-md-4">
               <div className="team-card">
-                <img src="https://randomuser.me/api/portraits/women/44.jpg" />
+                <img src="https://randomuser.me/api/portraits/women/44.jpg" alt=""/>
                 <h4>Priya Mehta</h4>
                 <p>Real Estate Specialist</p>
               </div>
@@ -119,7 +119,7 @@ export default function About() {
 
             <div className="col-md-4">
               <div className="team-card">
-                <img src="https://randomuser.me/api/portraits/men/75.jpg" />
+                <img src="https://randomuser.me/api/portraits/men/75.jpg" alt=""/>
                 <h4>Arjun Verma</h4>
                 <p>Investment Advisor</p>
               </div>
