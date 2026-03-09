@@ -34,9 +34,9 @@ const Footer = () => {
         <div className="footer-section">
           <h4>Follow Us</h4>
           <div className="social-icons">
-            <a href="#">Facebook</a>
-            <a href="#">Instagram</a>
-            <a href="#">LinkedIn</a>
+            <a href="https://facebook.com">Facebook</a>
+            <a href="https://instagram.com">Instagram</a>
+            <a href="https://twitter.com">Twitter</a>
           </div>
         </div>
 

@@ -103,7 +103,7 @@ export default function About() {
 
             <div className="col-md-4">
               <div className="team-card">
-                <img src="https://randomuser.me/api/portraits/men/32.jpg" alt=""/>
+                <img src="https://randomuser.me/api/portraits/men/32.jpg" alt="Rahul Sharma" />
                 <h4>Rahul Sharma</h4>
                 <p>Senior Property Consultant</p>
               </div>
@@ -111,7 +111,7 @@ export default function About() {
 
             <div className="col-md-4">
               <div className="team-card">
-                <img src="https://randomuser.me/api/portraits/women/44.jpg" alt=""/>
+                <img src="https://randomuser.me/api/portraits/women/44.jpg" alt="Priya Mehta" />
                 <h4>Priya Mehta</h4>
                 <p>Real Estate Specialist</p>
               </div>
@@ -119,7 +119,7 @@ export default function About() {
 
             <div className="col-md-4">
               <div className="team-card">
-                <img src="https://randomuser.me/api/portraits/men/75.jpg" alt=""/>
+                <img src="https://randomuser.me/api/portraits/men/75.jpg" alt="Arjun Verma" />
                 <h4>Arjun Verma</h4>
                 <p>Investment Advisor</p>
               </div>
@@ -138,13 +138,13 @@ export default function About() {
 
           <div className="partners">
 
-            <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt=""/>
 
-            <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt=""/>
 
-            <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt=""/>
 
-            <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt=""/>
 
           </div>
 
